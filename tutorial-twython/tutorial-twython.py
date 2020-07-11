@@ -6,6 +6,8 @@ Created on Thu Jul  9 23:00:05 2020
 @author: joamila
 """
 
+#Código desenvolvido para o tutorial disponível em: https://www.linkedin.com/pulse/como-obter-dados-da-api-do-twitter-inicia%25C3%25A7%25C3%25A3o-em-twython-joamila-brito/
+
 from twython import Twython, TwythonStreamer
 
 def get_trends_brazil(twitter):
